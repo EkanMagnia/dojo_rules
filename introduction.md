@@ -1,5 +1,5 @@
-CSS
-PHP
-MySQL
-HTML
-JavaScript
+* CSS
+* PHP
+* MySQL
+* HTML
+* JavaScript
